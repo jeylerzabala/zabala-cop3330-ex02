@@ -19,5 +19,20 @@ every time a key is pressed. If your language doesn’t have a particularly frie
 exercise with HTML and JavaScript instead.
 */
 
+import java.util.Scanner;
+
 public class App {
+    public static void main(String[] args) {
+
+        Scanner in = new Scanner(System.in);
+        System.out.print("What is the input string?");
+        String str = in.nextLine();
+        String num = "";
+
+        for (int i = 0; i < str.length(); i++) {
+            char thisChar = str.charAt(i);
+        }
+
+        System.out.println(str + " has " + str.length() + " characters ");
+    }
 }
