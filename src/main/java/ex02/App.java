@@ -1,6 +1,10 @@
 package ex02;
 
 /*
+
+*  UCF COP3330 Summer 2021 Assignment 1 Solution
+*  Copyright 2021 Jeyler Zabala
+
 Exercise 2 - Counting the Number of Characters
 Create a program that prompts for an input string and displays output that shows the input
 string and the number of characters the string contains.
